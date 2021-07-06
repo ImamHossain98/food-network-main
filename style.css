@@ -5,6 +5,9 @@ body{
 span{
     color: deepskyblue;
 }
+.gray-headline{
+    color:dimgray;
+}
 h1{
     font-size: 80px;
 }
@@ -19,7 +22,7 @@ p{
 .major-container{
     margin-left: 100px;
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     
     
 }
@@ -54,3 +57,5 @@ width: 80%;
     margin-right:5%;
     margin-left: 10%;
 }
+.align-set{
+    text-align: center;}
