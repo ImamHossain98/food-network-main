@@ -1,0 +1,43 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+span{
+    color: deepskyblue;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.major-container{
+    margin-left: 100px;
+    display: flex;
+    margin-bottom: 100px;
+    
+    
+}
+.link-button{
+    background-image: linear-gradient(tomato,orange);
+    text-decoration: none;
+   color: white;
+   padding: 10px 60px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+.half-space{
+    width: 50%;
+}
+.half-space img{
+width: 80%;
+}
+.background-scene{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-size: cover;
+    padding: 200px 400px;
+}
