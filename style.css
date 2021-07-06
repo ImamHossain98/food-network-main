@@ -2,7 +2,7 @@ body{
     font-family: 'Bebas Neue', cursive;
 }
 
-span{
+  span{
     color: deepskyblue;
 }
 .gray-headline{
@@ -74,4 +74,9 @@ width: 80%;
   padding: 5px;
   width: 300px;;
   margin-top: 5px;
+
+}
+.footer-effect{
+    background-image: linear-gradient( gray,dimgray);
+    text-align: center;
 }
